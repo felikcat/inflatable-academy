@@ -37,6 +37,15 @@ endif::[]
 |Loctite Vinyl, Fabric & Plastic Adhesive | $3 per 1 oz.
 |===
 
+=== Vinyl Glue removal
+
+.United States
+|===
+|Remover |Expected Price
+
+|HH-66 Thinner | $1 per 1oz.
+|===
+
 === UV Flashlight
 TIP: Purpose: To see if the vinyl's surface is clean before applying glue to it.
 
