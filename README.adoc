@@ -10,13 +10,19 @@ endif::[]
 :imagesdir: imgs/
 
 == Precautions
-* For applying glue:
-** Don't leave the toy out in the sun.
+=== For applying vinyl glue
+. Wear nitrile gloves while handling, as vinyl glue is toxic to touch before it dries.
+- Latex gloves will deteriorate on contact with vinyl glue.
+. Heat acts as removal for vinyl glue; don't try gluing while in direct sunlight.
 
-* Avoid contact with vinyl if there is anything applied to your skin that easily soaks into it, such as:
-** Sunscreen, lotion.
+=== For handling vinyl
+. Avoid contact with vinyl if there is anything applied to your skin that easily soaks into it, such as sunscreens or lotions.
 
-* Use 0.3mm (softer) to 0.4mm/16 Gauge/16 Mil (stiffer) vinyl instead.
+. Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened: +
+- Long exposure to direct sun-light.
+- Using a steam cleaner to push steam into a vinyl-based toy.
+
+* Use 0.3mm (softer) up to 0.4mm/16 Gauge/16 Mil (stiffer) vinyl instead.
 ** Too stiff of vinyl will transfer stress to its surroundings.
 
 * Avoid using the following:
@@ -26,6 +32,12 @@ endif::[]
 
 
 == Products
+
+=== Self-healing cutting mat
+
+=== Stainless steel rotary cutter
+
+=== Brayer Roller
 
 === Vinyl Glue
 
