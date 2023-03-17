@@ -28,7 +28,12 @@ endif::[]
 * Avoid using the following:
 ** Non-vinyl glues, such as Gorilla Glue and other superglue products.
 ** Duct tape and other forms of tape not meant for Vinyl.
-** 1mm vinyl thickness won't stick well to seams. 
+** 1mm vinyl thickness won't stick well to seams.
+
+=== Storing vinyl
+. Avoid putting vinyl inside dyed/pigmented fabric bags, it will stain the vinyl.
+. Leave the toy's valves open to prevent mold build-up while in storage.
+.
 
 
 == Products
