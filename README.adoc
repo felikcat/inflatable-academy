@@ -9,6 +9,7 @@ ifdef::env-github[]
 endif::[]
 :imagesdir: imgs/
 
+
 == Precautions
 === For applying vinyl glue
 . Wear nitrile gloves while handling, as vinyl glue is toxic to touch before it dries.
@@ -22,27 +23,63 @@ endif::[]
 - Long exposure to direct sun-light.
 - Using a steam cleaner to push steam into a vinyl-based toy.
 
-* Use 0.3mm (softer) up to 0.4mm/16 Gauge/16 Mil (stiffer) vinyl instead.
-** Too stiff of vinyl will transfer stress to its surroundings.
+. Use 0.3mm (thinner) up to 0.4mm (thicker & stiffer) vinyl for your repairs.
+** 0.3 mm = 12 gauge/12 mil, 0.4mm = 16 gauge/16 mil.
+** Too stiff of vinyl (at or above 0.6mm) will transfer more stress to its surroundings, and that vinyl won't stick to the glue as much.
 
-* Avoid using the following:
+. Avoid using the following:
 ** Non-vinyl glues, such as Gorilla Glue and other superglue products.
 ** Duct tape and other forms of tape not meant for Vinyl.
-** 1mm vinyl thickness won't stick well to seams.
+** 1mm thick vinyl has problems sticking to seams. Use 0.4mm instead.
 
 === Storing vinyl
 . Avoid putting vinyl inside dyed/pigmented fabric bags, it will stain the vinyl.
+
 . Leave the toy's valves open to prevent mold build-up while in storage.
-.
+
+
+== Safe to use cleaning liquids
+
+* Shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
+* Dish soap with no de-greasers, such as the https://dawn-dish.com/en-us/how-to/what-dawn-is-made-of-ingredients[Dawn Original]/Dawn Non-Concentrated Simply Clean.
+
+NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
+
+
+== Finding leaks
+. Fill a 32oz spray bottle half-way with warm water, then put 2 tablespoons of a non-concentrated dish soap into the bottle, then fill the bottle to completion with warm water.
+. Spray the entire toy, wait a few hours, then look for expanded bubbles. Some leaks are noticeable after a few minutes.
+** Avoid leaving the soap on for beyond half a day, it can leech plasticizers which damages the toy.
+
+
+== Trimming vinyl to make strips
+* To cut vinyl that's too large currently for a Paper Guillotine, use a rotary cutter alongside a measuring object, likely a cutting mat with a ruler painted on.
+* Use a Paper Guillotine to make precise cuts on small sheets of vinyl.
+
+
+== Applying vinyl glue
+* Keep the application flat/even, and cover the entire surface area of what you're gluing on.
+** Too much glue applied in an area won't hold together, and might leech plasticizers.
+
+== Going beyond tips and tricks
+Whale Man's https://www.youtube.com/@candycoatedkink[various tutorial videos].
 
 
 == Products
 
+
+
 === Self-healing cutting mat
+- Quality brands: Dahle, OLFA
+
 
 === Stainless steel rotary cutter
+- Quality brands: OLFA
+
+Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand specifically and any no-name brands.
 
 === Brayer Roller
+If your Brayer Roller contains any latex, do not use it.
 
 === Vinyl Glue
 
@@ -66,41 +103,14 @@ endif::[]
 === UV Flashlight
 TIP: Purpose: To see if the vinyl's surface is clean before applying glue to it.
 
-* High quality review sites:
-. https://1lumen.com/
+Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
 
-|===
-|Flashlight |Expected price
+WARNING: Your eyes will hurt while using a UV flashlight as an immediate effect. Long-term there is risk of permanent eye-sight damage.
 
-|Weltool M2-BF -> the best, but overpriced | $79 with battery and charger included.
-|===
+.What can be done?
+Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
+- The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
 
+- For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
 
-
-== Cleaning
-
-==== Safe to use cleaning liquids:
-
-* Shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
-* Dish soap with no de-greasers, such as the https://dawn-dish.com/en-us/how-to/what-dawn-is-made-of-ingredients[Dawn Original]/Dawn Simply Clean; the page linked also explains most of the ingredients used for Suave's shampoo.
-
-
-== Finding leaks
-. Fill a 32oz spray bottle half-way with warm water, then put 2 tablespoons of a non-concentrated dish soap (such as Dawn Original; also called "Non-Concentrated Simply Clean") into the bottle, then fill the bottle to completion with warm water.
-. Spray the entire toy, wait a few hours, then look for expanded bubbles. Some leaks are noticeable after a few minutes.
-** Avoid leaving the soap on for beyond half a day, it can leech plasticizers, thus damaging the toy and negatively changing how it feels.
-
-NOTE: To clean off the toy, use a microfiber cloth soaked in warm water.
-
-
-== Trimming vinyl to make strips
-* Use a Paper Guillotine to make precise cuts.
-
-
-== Applying vinyl glue
-* Keep the application flat/even, and cover the entire surface area of what you're gluing on.
-** Too much glue applied in an area won't hold together, and might leech plasticizers.
-
-== Going beyond tips and tricks
-Whale Man's https://www.youtube.com/@candycoatedkink[various tutorial videos].
