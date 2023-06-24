@@ -10,14 +10,25 @@ endif::[]
 :imagesdir: imgs/
 
 
+== Visual tutorials & education
+Intended as a supplement to this guide; this text-only guide is meant as a big list on how to not fuck up, 
+
+. https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
+
 == Precautions
 === For applying vinyl glue
 . Wear nitrile gloves while handling, as vinyl glue is toxic to touch before it dries.
 - Latex gloves will deteriorate on contact with vinyl glue.
-. Heat acts as removal for vinyl glue; don't try gluing while in direct sunlight.
+. Heat acts as removal for vinyl glue; avoid gluing while in direct sunlight.
 
 === For handling vinyl
-. Avoid contact with vinyl if there is anything applied to your skin that easily soaks into it, such as sunscreens or lotions.
+. Avoid contact with vinyl if your skin has one of the following: +
+-> Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease (has small amounts of mineral oil), WD-40 (and other sprays containing solvents).
+- Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
+
+. What can contact with vinyl safely:
+- Talcum powder. Safe for storage.
+- Silicone lube. Not safe for storage, be sure to clean off the vinyl before storing it.
 
 . Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened: +
 - Long exposure to direct sun-light.
@@ -33,7 +44,7 @@ endif::[]
 ** 1mm thick vinyl has problems sticking to seams. Use 0.4mm instead.
 
 === Storing vinyl
-. Avoid putting vinyl inside dyed/pigmented fabric bags, it will stain the vinyl.
+. Avoid dyed/pigmented fabric bags, they permanently stain vinyl.
 
 . Leave the toy's valves open to prevent mold build-up while in storage.
 
@@ -61,13 +72,8 @@ NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
 * Keep the application flat/even, and cover the entire surface area of what you're gluing on.
 ** Too much glue applied in an area won't hold together, and might leech plasticizers.
 
-== Going beyond tips and tricks
-Whale Man's https://www.youtube.com/@candycoatedkink[various tutorial videos].
-
 
 == Products
-
-
 
 === Self-healing cutting mat
 - Quality brands: Dahle, OLFA
