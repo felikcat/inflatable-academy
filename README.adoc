@@ -11,28 +11,28 @@ endif::[]
 
 
 == Visual tutorials & education
-Intended as a supplement to this guide; this text-only guide is meant as a big list on how to not fuck up, 
+Intended as a supplement to this guide.
 
 . https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
 
-== Precautions
-=== For applying vinyl glue
+== Applying vinyl glue
 . Wear nitrile gloves while handling, as vinyl glue is toxic to touch before it dries.
 - Latex gloves will deteriorate on contact with vinyl glue.
 . Heat acts as removal for vinyl glue; avoid gluing while in direct sunlight.
 
-=== For handling vinyl
-. Avoid contact with vinyl if your skin has one of the following: +
--> Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease (has small amounts of mineral oil), WD-40 (and other sprays containing solvents).
-- Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
+== Handling
+.Avoid contact with vinyl if your skin has one of the following:
+- Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease (has small amounts of mineral oil), WD-40 (and other sprays containing solvents).
+Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
 
-. What can contact with vinyl safely:
-- Talcum powder. Safe for storage.
-- Silicone lube. Not safe for storage, be sure to clean off the vinyl before storing it.
+.What can contact with vinyl safely:
+- Talcum powder, also safe for storage.
+- Silicone lube, not safe for storage -- so be sure to clean off the vinyl before storing it.
 
-. Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened: +
-- Long exposure to direct sun-light.
-- Using a steam cleaner to push steam into a vinyl-based toy.
+.Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened.
+- The following methods to do this are:
+** Exposing the toy to direct sun-light for a long time.
+** Using a steam cleaner to push steam into the toy.
 
 . Use 0.3mm (thinner) up to 0.4mm (thicker & stiffer) vinyl for your repairs.
 ** 0.3 mm = 12 gauge/12 mil, 0.4mm = 16 gauge/16 mil.
@@ -43,16 +43,16 @@ Intended as a supplement to this guide; this text-only guide is meant as a big l
 ** Duct tape and other forms of tape not meant for Vinyl.
 ** 1mm thick vinyl has problems sticking to seams. Use 0.4mm instead.
 
-=== Storing vinyl
-. Avoid dyed/pigmented fabric bags, they permanently stain vinyl.
+
+== Storage
+. Dyed/pigmented fabric bags will permanently stain vinyl.
 
 . Leave the toy's valves open to prevent mold build-up while in storage.
 
 
-== Safe to use cleaning liquids
+== Cleaning
 
-* Shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
-* Dish soap with no de-greasers, such as the https://dawn-dish.com/en-us/how-to/what-dawn-is-made-of-ingredients[Dawn Original]/Dawn Non-Concentrated Simply Clean.
+Use shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze], or dish soap with no de-greasers such as the https://dawn-dish.com/en-us/how-to/what-dawn-is-made-of-ingredients[Dawn Original]/Dawn Non-Concentrated Simply Clean.
 
 NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
 
@@ -69,23 +69,29 @@ NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
 
 
 == Applying vinyl glue
-* Keep the application flat/even, and cover the entire surface area of what you're gluing on.
-** Too much glue applied in an area won't hold together, and might leech plasticizers.
+. Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it.
+
+. To ensure the glue does its job:
+- Apply the glue evenly and thinly, and glue all of what the vinyl patch will contact. 
+- Do not apply too much glue in a given area.
 
 
 == Products
 
+=== The inflation tool
+A 'double action hand pump' is recommended, as it inflates or deflates while going up and down. It should look similar https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[to this].
+
 === Self-healing cutting mat
-- Quality brands: Dahle, OLFA
+Quality brands: Dahle, OLFA
 
 
 === Stainless steel rotary cutter
-- Quality brands: OLFA
+Quality brands: OLFA
 
 Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand specifically and any no-name brands.
 
 === Brayer Roller
-If your Brayer Roller contains any latex, do not use it.
+If your Brayer Roller contains any latex (natural rubbers), do not use it.
 
 === Vinyl Glue
 
@@ -107,7 +113,6 @@ If your Brayer Roller contains any latex, do not use it.
 |===
 
 === UV Flashlight
-TIP: Purpose: To see if the vinyl's surface is clean before applying glue to it.
 
 Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
 
