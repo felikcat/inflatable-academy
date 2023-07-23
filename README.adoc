@@ -78,39 +78,41 @@ Intended as a supplement to this guide.
 
 == Products
 
-.We need an inflation tool that safely inflates or deflates.
-** For the United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality.
+=== We need an inflation tool that safely inflates or deflates.
+* For the United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality.
 
 
-.Self-healing cutting mat
+=== Self-healing cutting mat
 - Quality brands: Dahle, OLFA
 
 
-.Stainless steel rotary cutter
+=== Stainless steel rotary cutter
 - Quality brands: OLFA
-** Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
+
+TIP: Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
 
 
-.Brayer Roller
-- Do not use Brayer Rollers that contain any latex (natural rubber).
+=== Brayer Roller
+. Do not use Brayer Rollers that contain any latex (natural rubber).
 
 
-.Vinyl Glue
-. `HH-66 Vinyl Cement`: the gold standard, though some countries cannot purchase this locally.
-. `Loctite Vinyl, Fabric & Plastic Adhesive`: much higher price than HH-66 and not as high quality.
+=== Vinyl Glue
+. https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement]: the gold standard, though some countries cannot purchase this locally.
+. https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive]: much higher price than HH-66 and not as high quality, but is easy to apply.
 
-.Vinyl Glue removers
-. `HH-66 Thinner`.
+=== Vinyl Glue removers
+. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner].
 
 
-.UV Flashlight
-. Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
-. WARNING: Your eyes will hurt while using a UV flashlight as an immediate effect. Long-term there is risk of permanent eye-sight damage.
+=== UV Flashlight
+Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
 
-- What can be done?
+WARNING: Without eye protection, your eyes will hurt while using a UV flashlight, and in the long-term you risk permanent eye-sight damage.
+
+.What can be done?
 * Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
-* The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
+- The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
 
-* For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
+- For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
 
