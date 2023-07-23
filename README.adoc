@@ -15,19 +15,14 @@ Intended as a supplement to this guide.
 
 . https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
 
-== Applying vinyl glue
-. Wear nitrile gloves while handling, as vinyl glue is toxic to touch before it dries.
-- Latex gloves will deteriorate on contact with vinyl glue.
-. Heat acts as removal for vinyl glue; avoid gluing while in direct sunlight.
-
 == Handling
 .Avoid contact with vinyl if your skin has one of the following:
 - Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease (has small amounts of mineral oil), WD-40 (and other sprays containing solvents).
-Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
+- Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
 
 .What can contact with vinyl safely:
-- Talcum powder, also safe for storage.
-- Silicone lube, not safe for storage -- so be sure to clean off the vinyl before storing it.
+- Safe for storage: Talcum powder.
+- Unsafe for storage: Silicone lube, Petroleum Jelly.
 
 .Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened.
 - The following methods to do this are:
@@ -45,20 +40,20 @@ Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
 
 
 == Storage
-. Dyed/pigmented fabric bags will permanently stain vinyl.
+* Dyed/pigmented fabric bags will permanently stain vinyl.
 
-. Leave the toy's valves open to prevent mold build-up while in storage.
+* Leave the toy's valves open to prevent mold build-up while in storage.
 
 
 == Cleaning
+. Use shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
 
-Use shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze], or dish soap with no de-greasers such as the https://dawn-dish.com/en-us/how-to/what-dawn-is-made-of-ingredients[Dawn Original]/Dawn Non-Concentrated Simply Clean.
+. Fill a 950 mL (32 oz) spray bottle half-way with warm water, then put 45 mL (3 tablespoons) of shampoo into the bottle, then fill the bottle to completion with warm water.
 
-NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
+. Wipe off the inflatable using a microfiber cloth soaked in warm water.
 
 
 == Finding leaks
-. Fill a 32oz spray bottle half-way with warm water, then put 2 tablespoons of a non-concentrated dish soap into the bottle, then fill the bottle to completion with warm water.
 . Spray the entire toy, wait a few hours, then look for expanded bubbles. Some leaks are noticeable after a few minutes.
 ** Avoid leaving the soap on for beyond half a day, it can leech plasticizers which damages the toy.
 
@@ -69,7 +64,12 @@ NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
 
 
 == Applying vinyl glue
+
 . Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it.
+
+. Vinyl glue is toxic before it dries. Wear nitrile gloves while handling.
+- Avoid latex gloves, they deteriorate on contact with vinyl glue.
+. Heat acts as removal for vinyl glue; avoid gluing while in direct sunlight.
 
 . To ensure the glue does its job:
 - Apply the glue evenly and thinly, and glue all of what the vinyl patch will contact. 
@@ -78,50 +78,39 @@ NOTE: Wiping off soap: use a microfiber cloth soaked in warm water.
 
 == Products
 
-=== The inflation tool
-A 'double action hand pump' is recommended, as it inflates or deflates while going up and down. It should look similar https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[to this].
-
-=== Self-healing cutting mat
-Quality brands: Dahle, OLFA
+.We need an inflation tool that safely inflates or deflates.
+** For the United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality.
 
 
-=== Stainless steel rotary cutter
-Quality brands: OLFA
+.Self-healing cutting mat
+- Quality brands: Dahle, OLFA
 
-Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand specifically and any no-name brands.
 
-=== Brayer Roller
-If your Brayer Roller contains any latex (natural rubbers), do not use it.
+.Stainless steel rotary cutter
+- Quality brands: OLFA
+** Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
 
-=== Vinyl Glue
 
-.United States
-|===
-|Glue |Expected price
+.Brayer Roller
+- Do not use Brayer Rollers that contain any latex (natural rubber).
 
-|HH-66 Vinyl Cement | $1 per 1 oz.
-|Loctite Vinyl, Fabric & Plastic Adhesive | $3 per 1 oz.
-|===
 
-=== Vinyl Glue removal
+.Vinyl Glue
+. `HH-66 Vinyl Cement`: the gold standard, though some countries cannot purchase this locally.
+. `Loctite Vinyl, Fabric & Plastic Adhesive`: much higher price than HH-66 and not as high quality.
 
-.United States
-|===
-|Remover |Expected Price
+.Vinyl Glue removers
+. `HH-66 Thinner`.
 
-|HH-66 Thinner | $1 per 1oz.
-|===
 
-=== UV Flashlight
+.UV Flashlight
+. Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+. WARNING: Your eyes will hurt while using a UV flashlight as an immediate effect. Long-term there is risk of permanent eye-sight damage.
 
-Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+- What can be done?
+* Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
-WARNING: Your eyes will hurt while using a UV flashlight as an immediate effect. Long-term there is risk of permanent eye-sight damage.
+* The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
 
-.What can be done?
-Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
-
-- The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
-
-- For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
+* For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
 
