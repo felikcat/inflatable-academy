@@ -15,29 +15,25 @@ Intended as a supplement to this guide.
 
 . https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
 
-== Handling
-.Avoid contact with vinyl if your skin has one of the following:
-- Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease (has small amounts of mineral oil), WD-40 (and other sprays containing solvents).
+== Handling an inflatable
+. Avoid contact with vinyl if your skin has one of the following:
+- Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease, WD-40 (and other sprays containing solvents).
 - Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
 
-.What can contact with vinyl safely:
-- Safe for storage: Talcum powder.
-- Unsafe for storage: Silicone lube, Petroleum Jelly.
+. What can contact with vinyl safely:
+- *Storage safe:* Talcum powder.
+- *Temporary use only:* Silicone lube, Petroleum Jelly.
 
-.Vinyl can be stretched out further than normal for bigger inflation, but will degrade the vinyl and make seams weakened.
+. For repairs, avoid the following:
+** Non-vinyl glues, such as Gorilla Glue and other superglue products.
+** Duct tape and other forms of tape not made for vinyl.
+** Going above 0.4mm (16 gauge/16 mil) thick vinyl. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
+
+. At your own risk, vinyl can be stretched out further than normal for bigger inflation. Downsides: weakened seams, and the potential for deformation. +
 - The following methods to do this are:
 ** Exposing the toy to direct sun-light for a long time.
 ** Using a steam cleaner to push steam into the toy.
-
-. Use 0.3mm (thinner) up to 0.4mm (thicker & stiffer) vinyl for your repairs.
-** 0.3 mm = 12 gauge/12 mil, 0.4mm = 16 gauge/16 mil.
-** Too stiff of vinyl (at or above 0.6mm) will transfer more stress to its surroundings, and that vinyl won't stick to the glue as much.
-
-. Avoid using the following:
-** Non-vinyl glues, such as Gorilla Glue and other superglue products.
-** Duct tape and other forms of tape not meant for Vinyl.
-** 1mm thick vinyl has problems sticking to seams. Use 0.4mm instead.
-
+** Leaving an inflatable over-inflated for 3 days; higher humidity or higher temperature will accelerate this process.
 
 == Storage
 * Dyed/pigmented fabric bags will permanently stain vinyl.
@@ -55,7 +51,7 @@ Intended as a supplement to this guide.
 
 == Finding leaks
 . Spray the entire toy, wait a few hours, then look for expanded bubbles. Some leaks are noticeable after a few minutes.
-** Avoid leaving the soap on for beyond half a day, it can leech plasticizers which damages the toy.
+- Avoid leaving the soap on for beyond half a day, it can leech plasticizers which damages the toy.
 
 
 == Trimming vinyl to make strips
