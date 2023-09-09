@@ -10,13 +10,13 @@ endif::[]
 :imagesdir: imgs/
 
 NOTE: To simplify this guide greatly: what's not recommended here is wrong, suboptimal, or dangerous to vinyl. Detailed explanations are left to the bottom of this guide. +
-If in error, open a pull request with your changes along with the applicable information to prove your its validity.
+If in error, open a pull request with your changes along with the applicable information to prove its validity.
 
 
 == Handling an inflatable
 
 . What can contact with vinyl safely:
-- *Storage safe:* Antifungal & unscented Talcum powder.
+- *Storage safe:* Unscented talcum powder.
 - *Temporary use only:* Silicone lube, Petroleum Jelly.
 
 . For repairs, use:
