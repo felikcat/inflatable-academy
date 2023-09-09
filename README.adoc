@@ -9,39 +9,47 @@ ifdef::env-github[]
 endif::[]
 :imagesdir: imgs/
 
+NOTE: To simplify this guide greatly: what's not recommended here is wrong, suboptimal, or dangerous to vinyl. Detailed explanations are left to the bottom of this guide. +
+If in error, open a pull request with your changes along with the applicable information to prove your its validity.
 
-== Visual tutorials & education
-Intended as a supplement to this guide.
-
-. https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
 
 == Handling an inflatable
-. Avoid contact with vinyl if your skin has one of the following:
-- Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease, WD-40 (and other sprays containing solvents).
-- Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
 
 . What can contact with vinyl safely:
-- *Storage safe:* Talcum powder.
+- *Storage safe:* Antifungal & unscented Talcum powder.
 - *Temporary use only:* Silicone lube, Petroleum Jelly.
 
-. For repairs, avoid the following:
-** Non-vinyl glues, such as Gorilla Glue and other superglue products.
-** Duct tape and other forms of tape not made for vinyl.
-** Going above 0.4mm (16 gauge/16 mil) thick vinyl. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
+. For repairs, use:
+- 0.4mm (12 gauge) vinyl.
+- https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] or https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive].
+- https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] to remove Vinyl glue.
 
-. At your own risk, vinyl can be stretched out further than normal for bigger inflation. Downsides: weakened seams, and the potential for deformation. +
-- The following methods to do this are:
-** Exposing the toy to direct sun-light for a long time.
-** Using a steam cleaner to push steam into the toy.
-** Leaving an inflatable over-inflated for 3 days; higher humidity or higher temperature will accelerate this process.
+
+== Enlarging an inflatable
+CAUTION: This results in weakened seams, deformation, and is permanent.
+
+.The following methods to do this are:
+. Exposing the toy to direct sun-light for a long time.
+
+. Using a steam cleaner to push steam into the toy.
+
+. Leaving an inflatable over-inflated for 3 days; higher humidity or higher temperature will accelerate this process.
 
 == Storage
-* Dyed/pigmented fabric bags will permanently stain vinyl.
+. Getting all air out of an inflatable makes it hard to fold. Keep some air in, fold it, then vaccum seal it off if desired.
 
-* Leave the toy's valves open to prevent mold build-up while in storage.
+. Store inflatables only in undyed fabric bags.
+
+. Do not store inflatables in any Plastic bags (Ziploc, etc.), it leeches plasticizers out.
+
+. Dyed/pigmented fabric bags will permanently stain vinyl.
+
+. Leave the toy's valves open to prevent mold build-up while in storage.
 
 
 == Cleaning
+* A pencil eraser can get rid of undesirable marks/scuffs; try it dry, then wet the area with water and try erasing again.
+
 . Use shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
 
 . Fill a 950 mL (32 oz) spray bottle half-way with warm water, then put 45 mL (3 tablespoons) of shampoo into the bottle, then fill the bottle to completion with warm water.
@@ -50,13 +58,18 @@ Intended as a supplement to this guide.
 
 
 == Finding leaks
-. Spray the entire toy, wait a few hours, then look for expanded bubbles. Some leaks are noticeable after a few minutes.
-- Avoid leaving the soap on for beyond half a day, it can leech plasticizers which damages the toy.
+. Inflate until it feels over-inflated and very firm.
+
+. Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your  inflatable feels like a bar of soap. 
+Look for expanded bubbles; this may take up to hours to appear.
 
 
 == Trimming vinyl to make strips
-* To cut vinyl that's too large currently for a Paper Guillotine, use a rotary cutter alongside a measuring object, likely a cutting mat with a ruler painted on.
 * Use a Paper Guillotine to make precise cuts on small sheets of vinyl.
+
+- If the vinyl is too large for a Paper Guillotine, use a rotary cutter alongside a measuring object, such as a cutting mat with a ruler painted on.
+
+
 
 
 == Applying vinyl glue
@@ -72,33 +85,21 @@ Intended as a supplement to this guide.
 - Do not apply too much glue in a given area.
 
 
-== Products
+== Tools
 
-=== We need an inflation tool that safely inflates or deflates.
-* For the United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality.
-
+=== For inflating
+* United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality for the price.
 
 === Self-healing cutting mat
 - Quality brands: Dahle, OLFA
 
-
 === Stainless steel rotary cutter
 - Quality brands: OLFA
 
-TIP: Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
-
+NOTE: Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
 
 === Brayer Roller
 . Do not use Brayer Rollers that contain any latex (natural rubber).
-
-
-=== Vinyl Glue
-. https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement]: the gold standard, though some countries cannot purchase this locally.
-. https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive]: much higher price than HH-66 and not as high quality, but is easy to apply.
-
-=== Vinyl Glue removers
-. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner].
-
 
 === UV Flashlight
 Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
@@ -112,3 +113,28 @@ WARNING: Without eye protection, your eyes will hurt while using a UV flashlight
 
 - For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
 
+
+== Visual tutorials & education
+Intended as a supplement to this guide.
+
+. https://www.youtube.com/@candycoatedkink[Candy Coated Squeaks].
+
+== More info
+
+.See here for the context behind decisions in this guide.
+[%collapsible]
+====
+
+. Known harmful for contact with vinyl:
+- Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease, WD-40 (and other sprays containing solvents).
+- Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
+
+** Non-vinyl glues, such as Gorilla Glue and other superglue products.
+** Duct tape and other forms of tape not made for vinyl.
+** Going above 0.4mm (16 gauge/16 mil) thick vinyl. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
+
+. HH-66 Vinyl Cement is the gold standard, though some countries cannot purchase this locally.
+
+. Loctite Vinyl, Fabric & Plastic Adhesive is much higher price than HH-66 and not as high quality, but is easy to apply.
+
+====
