@@ -9,9 +9,6 @@ ifdef::env-github[]
 endif::[]
 :imagesdir: imgs/
 
-NOTE: To simplify this guide greatly: what's not recommended here is wrong, suboptimal, or dangerous to vinyl. Detailed explanations are left to the bottom of this guide. +
-If in error, open a pull request with your changes along with the applicable information to prove its validity.
-
 
 == Handling an inflatable
 
@@ -19,14 +16,9 @@ If in error, open a pull request with your changes along with the applicable inf
 - *Storage safe:* Unscented talcum powder.
 - *Temporary use only:* Silicone lube, Petroleum Jelly.
 
-. For repairs, use:
-- 0.4mm (12 gauge) vinyl.
-- https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] or https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive].
-- https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] to remove Vinyl glue.
-
 
 == Enlarging an inflatable
-CAUTION: This results in weakened seams, deformation, and is permanent.
+CAUTION: This results permanently in weakened seams and deformation.
 
 .The following methods to do this are:
 . Exposing the toy to direct sun-light for a long time.
@@ -50,17 +42,16 @@ CAUTION: This results in weakened seams, deformation, and is permanent.
 == Cleaning
 * A pencil eraser can get rid of undesirable marks/scuffs; try it dry, then wet the area with water and try erasing again.
 
-. Use shampoos without conditioners and minerals, such as the https://smartlabel.unileverusa.com/079400587602-0002-en-US/index.html[Suave Essentials - Ocean Breeze].
+.Recommended for at least once a week while in active use:
+. Get a 950 mL (32 oz) spray bottle, fill it half-way with warm water, put 45 mL (3 tablespoons) of *non-concentrated* dish soap into the bottle, then finish the bottle up with warm water.
 
-. Fill a 950 mL (32 oz) spray bottle half-way with warm water, then put 45 mL (3 tablespoons) of shampoo into the bottle, then fill the bottle to completion with warm water.
-
-. Wipe off the inflatable using a microfiber cloth soaked in warm water.
+. Wipe off the inflatable using a microfiber cloth. Whether the cloth is wet with warm water is up to preference.
 
 
 == Finding leaks
 . Inflate until it feels over-inflated and very firm.
 
-. Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your  inflatable feels like a bar of soap. 
+. Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your inflatable feels like a bar of soap. 
 Look for expanded bubbles; this may take up to hours to appear.
 
 
@@ -70,10 +61,7 @@ Look for expanded bubbles; this may take up to hours to appear.
 - If the vinyl is too large for a Paper Guillotine, use a rotary cutter alongside a measuring object, such as a cutting mat with a ruler painted on.
 
 
-
-
 == Applying vinyl glue
-
 . Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it.
 
 . Vinyl glue is toxic before it dries. Wear nitrile gloves while handling.
@@ -84,8 +72,35 @@ Look for expanded bubbles; this may take up to hours to appear.
 - Apply the glue evenly and thinly, and glue all of what the vinyl patch will contact. 
 - Do not apply too much glue in a given area.
 
+== Buying DINP plasticizer
+.Warnings
+. Sellers from Alibaba overcharge greatly; their average cost for 1kg/1000mL is around $100, plus $80 or more shipping.
+. Some chemical companies such as Sigma-Aldrich only sell to chemists that work for a university or via your company's approval.
+- This also applies to the sale of ATBC.
+. Bad sellers could mix in sunflower oil or water into the DINP as a way to cheap out; the sunflower oil is harmful to inflatables.
+. Wear nitrile gloves to protect yourself from DINP (or ATBC) while applying it to an inflatable.
+
+.Good sellers
+. https://inflationresource.online/product/dinp/[Inflationresource]
+
+== Buying ATBC plasticizer
+.Warnings
+. DINP is a more effective plasticizer than ATBC, via: more elasticity, resistance against skin oils, and leaks/leeches out less.
+
+.Good sellers
+. https://www.inflatableworld-wsp.de/catalog/product_info.php/atbc-softener-liter-p-220?currency=EUR[Inflatable World]
+
 
 == Tools
+
+=== Vinyl glue
+
+. https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] is the gold standard, though some countries cannot purchase this locally.
+
+. https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] is much higher price than HH-66 and not as high quality, but is easy to apply.
+
+=== Vinyl glue removal
+. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner].
 
 === For inflating
 * United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality for the price.
@@ -104,14 +119,12 @@ NOTE: Do not cheap out on these, as you'll end up spending more money later afte
 === UV Flashlight
 Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
 
-WARNING: Without eye protection, your eyes will hurt while using a UV flashlight, and in the long-term you risk permanent eye-sight damage.
+CAUTION: Without eye protection, your eyes will hurt while using a UV flashlight, and in the long-term you risk permanent eye-sight damage.
 
 .What can be done?
 * Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
-- The NoCry 6X3 goggles are suitable for many blue collar use-cases, while also protecting against UV light.
-
-- For white collar work, these https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[safety glasses] from Tool Klean have the bonus of blocking blue light enough to lessen circadian rhythm disruption (from displays, like TVs and monitors).
+- The https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[NoCry 6X3 goggles] or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable.
 
 
 == Visual tutorials & education
@@ -128,13 +141,9 @@ Intended as a supplement to this guide.
 . Known harmful for contact with vinyl:
 - Baby oil, Coconut oil, Mineral oil, Water-based lube, Vegetable oil, Lithium grease, WD-40 (and other sprays containing solvents).
 - Petroleum Jelly (Vaseline) is safe for vinyl, but unsafe for latex.
+- Non-vinyl glues, such as Gorilla Glue and other superglue products.
+- Duct tape and other forms of tape not made for vinyl.
 
-** Non-vinyl glues, such as Gorilla Glue and other superglue products.
-** Duct tape and other forms of tape not made for vinyl.
-** Going above 0.4mm (16 gauge/16 mil) thick vinyl. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
-
-. HH-66 Vinyl Cement is the gold standard, though some countries cannot purchase this locally.
-
-. Loctite Vinyl, Fabric & Plastic Adhesive is much higher price than HH-66 and not as high quality, but is easy to apply.
+. Going above 0.4mm (16 gauge/16 mil) thick vinyl. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
 
 ====
