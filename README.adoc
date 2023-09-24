@@ -7,30 +7,29 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-:imagesdir: imgs/
+:imagesdir: Images/
 
 
 == Handling an inflatable
 
-. What can contact with vinyl safely:
-- *Storage safe:* Unscented talcum powder.
+. Vinyl-safe lubes:
+- *Storage safe:* Corn starch, unscented talcum powder (not recommended).
 - *Temporary use only:* Silicone lube, Petroleum Jelly.
 
+. Latex-safe lubes:
+- *Storage safe:* Unscented talcum powder.
+- *Temporary use only:* Silicone lube.
 
-== Enlarging an inflatable
-CAUTION: This results permanently in weakened seams and deformation.
-
-.The following methods to do this are:
-. Exposing the toy to direct sun-light for a long time.
-
-. Using a steam cleaner to push steam into the toy.
-
-. Leaving an inflatable over-inflated for 3 days; higher humidity or higher temperature will accelerate this process.
+. Avoid for long-periods of time:
+- Leaving an vinyl or latex on a hangar.
+- Having the vinyl or latex touch itself. 
 
 == Storage
 . Getting all air out of an inflatable makes it hard to fold. Keep some air in, fold it, then vaccum seal it off if desired.
 
-. Store inflatables only in undyed fabric bags.
+. Store inflatables inside vinyl and latex safe storage bags:
+- Undyed & unwaxed cotton bags (called "canvas bags"); they must look similar to this in color:
+** image:LEAFICO_cotton_bags.jpg[]
 
 . Do not store inflatables in any Plastic bags (Ziploc, etc.), it leeches plasticizers out.
 
@@ -51,8 +50,8 @@ CAUTION: This results permanently in weakened seams and deformation.
 == Finding leaks
 . Inflate until it feels over-inflated and very firm.
 
-. Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your inflatable feels like a bar of soap. 
-Look for expanded bubbles; this may take up to hours to appear.
+. Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your inflatable feels like a bar of soap.
+Look for expanded bubbles; this may take up to hours to appear, unless you apply pressure to areas you think will leak.
 
 
 == Trimming vinyl to make strips
@@ -62,10 +61,16 @@ Look for expanded bubbles; this may take up to hours to appear.
 
 
 == Applying vinyl glue
+. Use a 19 or 20 gauge syringe tip, which ever you prefer.
+- Too low of a gauge will leak out glue, too high makes it impossible to get glue out.
+
+. Do not have air inside of the syringe holding the vinyl glue, it will cause the glue to leak out.
+
 . Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it.
 
 . Vinyl glue is toxic before it dries. Wear nitrile gloves while handling.
 - Avoid latex gloves, they deteriorate on contact with vinyl glue.
+
 . Heat acts as removal for vinyl glue; avoid gluing while in direct sunlight.
 
 . To ensure the glue does its job:
@@ -90,7 +95,6 @@ Look for expanded bubbles; this may take up to hours to appear.
 .Good sellers
 . https://www.inflatableworld-wsp.de/catalog/product_info.php/atbc-softener-liter-p-220?currency=EUR[Inflatable World]
 
-
 == Tools
 
 === Vinyl glue
@@ -100,7 +104,7 @@ Look for expanded bubbles; this may take up to hours to appear.
 . https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] is much higher price than HH-66 and not as high quality, but is easy to apply.
 
 === Vinyl glue removal
-. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner].
+. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or Acetone.
 
 === For inflating
 * United States: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport's Double Action Hand Pump] is high quality for the price.
@@ -111,7 +115,7 @@ Look for expanded bubbles; this may take up to hours to appear.
 === Stainless steel rotary cutter
 - Quality brands: OLFA
 
-NOTE: Do not cheap out on these, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
+TIP: Do not cheap out, as you'll end up spending more money later after being frustrated with blades that mess up your vinyl cuts. Avoid the Fiskers brand and all no-name brands.
 
 === Brayer Roller
 . Do not use Brayer Rollers that contain any latex (natural rubber).
@@ -125,6 +129,17 @@ CAUTION: Without eye protection, your eyes will hurt while using a UV flashlight
 * Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
 - The https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[NoCry 6X3 goggles] or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable.
+
+
+== Enlarging an inflatable
+CAUTION: This results permanently in weakened seams and deformation.
+
+.The following methods to do this are:
+. Exposing the toy to direct sun-light for a long time.
+
+. Using a steam cleaner to push steam into the toy.
+
+. Leaving an inflatable over-inflated for 3 days; higher humidity or higher temperature will accelerate this process.
 
 
 == Visual tutorials & education
