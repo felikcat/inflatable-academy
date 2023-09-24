@@ -29,7 +29,7 @@ endif::[]
 
 . Store inflatables inside vinyl and latex safe storage bags:
 - Undyed & unwaxed cotton bags (called "canvas bags"); they must look similar to this in color:
-** image:LEAFICO_cotton_bags.jpg[]
+** image:LEAFICO_cotton_bags.jpg[480,240]
 
 . Do not store inflatables in any Plastic bags (Ziploc, etc.), it leeches plasticizers out.
 
@@ -61,6 +61,17 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 
 
 == Applying vinyl glue
+
+=== CAUTION
+. Ensure you can exhaust air out of your workshop quickly by using a high-velocity fan or other means.
+
+. Never work around electronics; sparks mixed in with gas fumes can start a flash fire.
+
+. Wear a gas mask or painter respirator.
+- You can start looking at gas masks https://gasmaskandrespirator.fandom.com/wiki/Category:Current[here].
+
+
+=== Tips
 . Use a 19 or 20 gauge syringe tip, which ever you prefer.
 - Too low of a gauge will leak out glue, too high makes it impossible to get glue out.
 
