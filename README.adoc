@@ -70,12 +70,12 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 . Wear a gas mask or painter respirator.
 - You can start looking at gas masks https://gasmaskandrespirator.fandom.com/wiki/Category:Current[here].
 
-. Or ignore the above by simply working outdoors, and not near a power outlet.
+. Or ignore the above by simply working outdoors, and not working near a power source.
 
 
 === Tips
 . Use a 19 or 20 gauge syringe tip, which ever you prefer.
-- Too low of a gauge will leak out glue, too high makes it impossible to get glue out.
+- Too low of a gauge will leak out glue, while too high makes it impossible to get glue out.
 
 . Do not have air inside of the syringe holding the vinyl glue, it will cause the glue to leak out.
 
@@ -87,7 +87,8 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 . Heat acts as removal for vinyl glue, and so does direct sunlight. Keep it in mind.
 
 . To ensure the glue does its job:
-- Apply the glue evenly and thinly, and glue all of what the vinyl patch will contact. 
+- Apply the glue evenly and thinly.
+- Split the work of gluing each vinyl strip into parts. Take it slow and work your way up.
 - Do not apply too much glue in a given area.
 
 
@@ -107,7 +108,7 @@ If you do not trust the safety of DINP, ATBC is the go-to.
 . Bad sellers could mix in sunflower oil or water into the DINP as a way to cheap out; the sunflower oil is harmful to inflatables.
 . Wear nitrile gloves to protect yourself from DINP (or ATBC) while applying it to an inflatable.
 
-.Good sellers
+=== Good sellers
 . https://inflationresource.online/product/dinp/[Inflationresource]
 
 
