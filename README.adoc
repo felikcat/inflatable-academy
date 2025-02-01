@@ -32,20 +32,21 @@ TIP: General rule of thumb: do not cheap out, as you'll end up spending more mon
 === For inflating
 * Double action hand pump: get one from https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued) if you can find it brand new.
 * For an automatic, MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] is the best. To keep its noise and heat down, get a motor speed controller https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[such as this]. For non-american outlets, get a https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
+- Ensure buying the https://metrovac.com/products/inflator-adapter[MVC-211C-AS] inflator adapter alongside your MetroVac of choice.
 
 === Self-healing cutting mat
-Quality brands: Dahle, OLFA
+* Quality brands: Dahle, OLFA
 
 === Stainless steel rotary cutter
-A rotary cutter with an ergonomic handle to reduce strain on the wrists and prevent accidental injuries is preferable. The blade also needs to be sharp and easily replaceable, therefore we get https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic rotary cutter]. Vinyl cuts do not require much precision, so a big 60mm blade will make it easier to work with the vinyl.
+* A rotary cutter with an ergonomic handle to reduce strain on the wrists and prevent accidental injuries is preferable. The blade also needs to be sharp and easily replaceable, therefore we get https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic rotary cutter]. Vinyl cuts do not require much precision, so a big 60mm blade will make it easier to work with the vinyl.
 
 === Brayer Roller
-Do not use Brayer Rollers that contain any latex (natural rubber); what I use is https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber brayer tool].
+* Do not use Brayer Rollers that contain any latex (natural rubber); what I use is https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber brayer tool].
 
 === UV Flashlight
-Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+* Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+- You need eye protection while using a UV flashlight, otherwise long-term you risk permanent eye-sight damage:
 
-.You need eye protection while using a UV flashlight, otherwise long-term you risk permanent eye-sight damage:
 * Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
 
 - The https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 goggles] (fits over glasses) or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable.
