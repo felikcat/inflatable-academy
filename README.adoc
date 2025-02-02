@@ -14,7 +14,12 @@ These are tips and tricks on repairing or handling inflatables ("pool toys") usi
 Do note that the information pertaining to latex isn't as good at the moment.
 
 == Visual tutorials & education
+.In order from most to least recommended:
 . https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
+.  https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon]'s how to and tutorials playlist.
+- Ignore the following videos, as they are low quality: "Removing the Safety Flaps from Inflatable Toy Valves", "Replacing Valves on Inflatable Toys".
+- https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
+
 
 == Tools
 
@@ -33,6 +38,15 @@ TIP: General rule of thumb: do not cheap out, as you'll end up spending more mon
 * Double action hand pump: get one from https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued) if you can find it brand new.
 * For an automatic, MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] is the best. To keep its noise and heat down, get a motor speed controller https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[such as this]. For non-american outlets, get a https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
 - Ensure buying the https://metrovac.com/products/inflator-adapter[MVC-211C-AS] inflator adapter alongside your MetroVac of choice.
+
+=== Airbrush kit (for painting vinyl)
+. The https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] is highly compact in size and suitable for paint touch-ups.
+. Now for the paint itself, its base is not cyclohexanone so don't expect miracles, 
+
+== Vinyl plugs/valves
+.Large valves, recommended for all but small air chambers such as the ears:
+. From FL Outdoor Fitness Store, https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2]; expected price: $3.62 USD for 5 valves.
+. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks]; overpriced but ships fast.
 
 === Self-healing cutting mat
 * Quality brands: Dahle, OLFA
@@ -61,7 +75,7 @@ image:LEAFICO_cotton_bags.jpg[480,240]
 - Plastic bags (Ziploc, etc.), it leeches plasticizers out.
 - Dyed/pigmented fabric bags, they will permanently stain vinyl.
 
-. Leave the inflatable's valves open to prevent mold build-up while in storage.
+. If you inflated using your lungs (the mouth), deflate, then re-inflate with dry air. This drys out the inside of the inflatable to prevent mold build-up.
 
 . Ensure the inflatable is dry, as vinyl can also mold on the outside.
 
@@ -132,9 +146,13 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 
 
 == Buying DINP plasticizer
-NOTE: DINP > ATBC, why: more elasticity, no paint damage, and far less plasticizer leeching via resistance against skin oils and direct sunlight. +
-If you do not trust the safety of DINP, ATBC is the go-to, however I will not assist in getting it as I consider it harmful to inflatables. +
-Also keep in mind that the negative health effects associated with DINP are primarily an issue for DEP, DEHP, and other phthalates, especially those applied through aerosol instead of an oil; DINP is a lot safer.
+
+=== Why DINP and not ATBC?
+- More elasticity, no paint damage, and far less plasticizer leeching via resistance against skin oils and direct sunlight. In some cases it can also prevent the vinyl's paint from cracking by making that paint flexible.
+
+- If you do not trust the safety of DINP, ATBC is the go-to, however I will not assist in getting it as I consider it harmful to inflatables.
+
+- Also keep in mind that the negative health effects associated with DINP are primarily an issue for DEP, DEHP, and other phthalates, especially those applied through aerosol instead of an oil; DINP is a lot safer.
 
 === Studies on DINP's negative health effects that are easy to comprehend; read in order
 . https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/
@@ -142,6 +160,8 @@ Also keep in mind that the negative health effects associated with DINP are prim
 . https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf
 
 === Warnings
+. Mouthing (sucking or licking on) vinyl treated with DINP leads to higher exposure to DINP according to the EPA.
+
 . Wear nitrile gloves to protect yourself from DINP while applying it to an inflatable. While the absorption rate through skin is around 5%, skin contact is still harmful and you should immediately wash the affected area if applicable.
 - You can apply it internally through a valve and spread it around with your hands; this exact method is used for ATBC. This is safer for your health but will weaken the inflatable's seams.
 
