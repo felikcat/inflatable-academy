@@ -9,61 +9,12 @@ ifdef::env-github[]
 endif::[]
 :imagesdir: Images/
 
-== About
-These are tips and tricks on repairing or handling inflatables ("pool toys") using either vinyl or latex material.
-Do note that the information pertaining to latex isn't as good at the moment.
-
 == Visual tutorials & education
 .In order from most to least recommended:
 . https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
 .  https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon]'s how to and tutorials playlist.
 - Ignore the following videos, as they are low quality: "Removing the Safety Flaps from Inflatable Toy Valves", "Replacing Valves on Inflatable Toys".
 - https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
-
-
-== Tools
-
-TIP: General rule of thumb: do not cheap out, as you'll end up spending more money later. Some of the recommendations here are pricy yet high-quality.
-
-=== Vinyl glue
-
-. https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] is the gold standard, though some countries cannot purchase this locally.
-. https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] is much higher price than HH-66 and not as high quality, but is easier to apply.
-
-=== Vinyl glue removal
-. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or Acetone.
-. Hair dryers also help in removing vinyl glue residue.
-
-=== For inflating
-* Double action hand pump: get one from https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued) if you can find it brand new.
-* For an automatic, MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] is the best. To keep its noise and heat down, get a motor speed controller https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[such as this]. For non-american outlets, get a https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
-- Ensure buying the https://metrovac.com/products/inflator-adapter[MVC-211C-AS] inflator adapter alongside your MetroVac of choice.
-
-=== Airbrush kit (for painting vinyl)
-. The https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] is highly compact in size and suitable for paint touch-ups.
-. Now for the paint itself, its base is not cyclohexanone so don't expect miracles, 
-
-== Vinyl plugs/valves
-.Large valves, recommended for all but small air chambers such as the ears:
-. From FL Outdoor Fitness Store, https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2]; expected price: $3.62 USD for 5 valves.
-. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks]; overpriced but ships fast.
-
-=== Self-healing cutting mat
-* Quality brands: Dahle, OLFA
-
-=== Stainless steel rotary cutter
-* A rotary cutter with an ergonomic handle to reduce strain on the wrists and prevent accidental injuries is preferable. The blade also needs to be sharp and easily replaceable, therefore we get https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic rotary cutter]. Vinyl cuts do not require much precision, so a big 60mm blade will make it easier to work with the vinyl.
-
-=== Brayer Roller
-* Do not use Brayer Rollers that contain any latex (natural rubber); what I use is https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber brayer tool].
-
-=== UV Flashlight
-* Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
-- You need eye protection while using a UV flashlight, otherwise long-term you risk permanent eye-sight damage:
-
-* Wear polycarbonate safety glasses or goggles with at least the ANSI Z87.1-2020 certification.
-
-- The https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 goggles] (fits over glasses) or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable.
 
 == Storage
 . Getting all air out of an inflatable makes it hard to fold. Keep some air in, fold it, then vaccum seal it off if desired.
@@ -76,8 +27,7 @@ image:LEAFICO_cotton_bags.jpg[480,240]
 - Dyed/pigmented fabric bags, they will permanently stain vinyl.
 
 . If you inflated using your lungs (the mouth), deflate, then re-inflate with dry air. This drys out the inside of the inflatable to prevent mold build-up.
-
-. Ensure the inflatable is dry, as vinyl can also mold on the outside.
+- Keep in mind that vinyl can mold from the outside too, luckily storing them in cotton bags airs them out and makes this a non-issue.
 
 . Avoid for long-periods of time:
 - Leaving vinyl or latex on a hangar.
@@ -104,38 +54,44 @@ image:LEAFICO_cotton_bags.jpg[480,240]
 . Spray with an even ratio of the bottle you've made, and spread it around with your hands. Ensure your inflatable feels like a bar of soap.
 Look for expanded bubbles; this may take up to hours to appear, unless you apply pressure to areas you think will leak.
 
-
-== Trimming vinyl to make strips
-* Use a Paper Guillotine to make precise cuts on small sheets of vinyl.
-
-- If the vinyl is too large for a Paper Guillotine, use a rotary cutter alongside a measuring object, such as a cutting mat with a ruler painted on.
-
 == Applying vinyl glue
+
 === Warnings
 . Work outdoors if possible, this will reduce the number of hazards to a minimum.
-
-. Wear a gas mask or painter respirator.
-- A https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series] is suitable. You can go cheaper than this, but you'll be paying the price when it needs to be replaced such as for the 3M respirators.
 
 . If you must work indoors: 
 - Ensure you can exhaust air out of your workshop quickly by using a high-velocity fan or other means.
 - Never work around electronics; sparks mixed in with gas fumes can start a flash fire.
 
-
-=== Tips
-. Avoid going above 0.4mm (16 gauge/16 mil) thick vinyl for patches or seam reinforcement. 0.6mm and above will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
-
-. It's possible to glue pinhole leaks while soap + water is still on it and the inflatable is fully inflated. A https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[video example] of this.
-
-. Use a 19 or 20 gauge syringe tip, which ever you prefer.
-- Too low of a gauge will leak out glue, while too high makes it impossible to get glue out.
-
-. Do not have air inside of the syringe holding the vinyl glue, it will cause the glue to leak out.
-
-. Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it. Ensure you're wearing polycarbonate safety glasses or goggles while using a UV flashlight as referred to prior.
+. Wear a gas mask or painter respirator.
+- A https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series] is suitable. You can go cheaper than this, but you'll be paying the price when it needs to be replaced such as for the 3M respirators.
 
 . Vinyl glue is toxic before it dries. Wear nitrile gloves while handling.
 - Avoid latex gloves, they deteriorate on contact with vinyl glue.
+
+. Avoid going above 0.4mm (16 gauge/16 mil) thick vinyl for patches or seam reinforcement. 0.6mm and above is hard to cut, will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
+
+=== Guidance
+. Firstly, buy the glue:
+- https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] is the gold standard, though some countries cannot purchase this locally.
+- https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] is much higher price than HH-66 and not as high quality, but is easier to apply.
+
+. Now, buy the required tools:
+- A rotary cutter. Get one with an ergonomic handle to reduce strain on the wrists and prevent accidental injuries is preferable. The blade also needs to be sharp and easily replaceable, therefore we get https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic rotary cutter]. Vinyl cuts do not require much precision, so a big 60mm blade will make it easier to work with the vinyl.
+
+- A brayer roller. We avoid the ones that contain any latex (natural rubber); what I use is https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber brayer tool].
+
+. Cut your roll of vinyl using a rotary cutter by running it alongside an external ruler on a self-healing cutting mat (use the OLFA or Dahle brand) to hold the rotary cutter's blade in place while pressed up against that ruler, and to take advantage of the additional ruler on the self-healing cutting mat to make it easier to straighten the external ruler; this is to get a straighter cut. Do this slowly and carefully to prevent veering off course.
+
+- Afterwards, use a Paper Guillotine to make precise cuts on the smaller sheets of vinyl you've made using that rotary cutter. The sizes of your vinyl strips are at your discretion, and will vary from inflatable to inflatable.
+
+. Put the HH-66 glue inside of a 10mL disposable syringe, then put on a 19 or 20 gauge syringe tip, which ever you prefer.
+- Too low of a gauge will leak out glue, while too high makes it impossible to get glue out.
+- Do not have air inside of the syringe holding the vinyl glue, it will cause the glue to leak out.
+
+. Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it. Ensure you're wearing polycarbonate safety goggles or glasses while using a UV flashlight.
+- Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+- The https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 goggles] (fits over glasses) or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable for protection.
 
 . Heat acts as removal for vinyl glue, and so does direct sunlight. Keep it in mind.
 
@@ -143,6 +99,28 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 - Apply the glue evenly and thinly.
 - Split the work of gluing each vinyl strip into parts. Take it slow and work your way up.
 - Do not apply too much glue in a given area.
+
+=== Tips and tricks
+. It's possible to glue pinhole leaks while soap + water is still on it and the inflatable is fully inflated. A https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[video example] of this.
+
+
+== [TODO] Vinyl glue removal
+. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or Acetone.
+. Hair dryers also help in removing vinyl glue residue.
+
+== For inflating
+* Double action hand pump: get one from https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued) if you can find it brand new.
+* For an automatic, MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] is the best. To keep its noise and heat down, get a motor speed controller https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[such as this]. For non-american outlets, get a https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
+- Ensure buying the https://metrovac.com/products/inflator-adapter[MVC-211C-AS] inflator adapter alongside your MetroVac of choice.
+
+== [TODO] Painting vinyl
+. The https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] is highly compact in size and suitable for paint touch-ups.
+. Now for the paint itself, its base is not cyclohexanone so don't expect miracles, 
+
+== [TODO] Replacing vinyl plugs/valves 
+.Large valves recommended for all but small air chambers such as the ears:
+. From FL Outdoor Fitness Store, https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2]; expected price: $3.62 USD for 5 valves.
+. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks]; overpriced but ships fast.
 
 
 == Buying DINP plasticizer
