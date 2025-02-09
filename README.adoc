@@ -17,7 +17,7 @@ endif::[]
 - https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
 
 == Storage
-. Getting all air out of an inflatable makes it hard to fold. Keep some air in, fold it, then vaccum seal it off if desired.
+. To store an inflatable without damaging the paint or seams, remove all air from the chambers but leave their valves open, lay out all of its seams flat, then roll the inflatable either clockwise or counter-clockwise, and be sure to close the valves quickly after the rolling process has expelled the remaining air out of your current chamber. This isn't space efficient, but it is the safest for the inflatable as there is less bent corners.
 
 . Store vinyl or latex inflatables inside of undyed & unwaxed cotton bags (called "canvas bags"); they must look similar to this in color: +
 image:LEAFICO_cotton_bags.jpg[480,240]
@@ -31,7 +31,7 @@ image:LEAFICO_cotton_bags.jpg[480,240]
 
 . Avoid for long-periods of time:
 - Leaving vinyl or latex on a hangar.
-- Having the vinyl or latex touch itself. You can place thin foam sheets with 1/16" thickness between the layers of vinyl or latex to have them not stick to itself. For a messier but easier option, use corn starch for vinyl, or unscented talcum powder for latex.
+- Having the vinyl or latex touch itself if using ATBC plasticizer instead of DINP. You can place thin foam sheets with 1/16" thickness between the layers of vinyl or latex to have them not stick to itself. For a messier but easier option, use corn starch for vinyl, or unscented talcum powder for latex.
 
 . Known harmful for contact with vinyl:
 - Baby oil, Coconut oil, Mineral oil, Silicone-based lube, Vegetable oil, Lithium grease, WD-40 (and other sprays containing solvents).
@@ -70,6 +70,16 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 - Avoid latex gloves, they deteriorate on contact with vinyl glue.
 
 . Avoid going above 0.4mm (16 gauge/16 mil) thick vinyl for patches or seam reinforcement. 0.6mm and above is hard to cut, will have problems sticking to seams and vinyl glue, and lowers durability by over-stressing the surrounding vinyl.
+Arguably, 0.3mm (12 gauge/12 mil) thick vinyl is more suitable for inflatables that use this thickness, such as those from Inflatable World.
+
+=== Seam context and information
+. *Pinch seams*: these are the most common and cost effective type of seams in inflatable manufacturing. They involve pinching two pieces of vinyl together and closing them off via welding. It's easy to recognize these by the raised lip along the seam.
+- The problem with these seams is they're prone to split open while overstressed. The fix would be to glue a strip of vinyl on top of the seam that bonds both sides of the pinch seam.
+
+. *Negative curves*: these are pinch seams that are curved instead of straight, such as going from head to nose. If you still do not recognize a negative curve, look for the tension surrounding it, as it'll have much more of it than uncurved pinch seams.
+
+. *Flat seams*: the most costly but durable type of seam. They're made by slightly overlapping two vinyl sheets together then welding both sides of that vinyl. These you usually don't have to worry about fixing, and look "flat".
+
 
 === Guidance
 . Firstly, buy the glue:
@@ -81,19 +91,24 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 
 - A brayer roller. We avoid the ones that contain any latex (natural rubber); what I use is https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber brayer tool].
 
-. Cut your roll of vinyl using a rotary cutter by running it alongside an external ruler on a self-healing cutting mat (use the OLFA or Dahle brand) to hold the rotary cutter's blade in place while pressed up against that ruler, and to take advantage of the additional ruler on the self-healing cutting mat to make it easier to straighten the external ruler; this is to get a straighter cut. Do this slowly and carefully to prevent veering off course.
+- A paper guillotine. The https://www.amazon.com/X-ACTO-Heavy-Guillotine-Trimmer-Inches/dp/B0006HVQH8[X-ACTO 15"] gives the best value when it comes to quality and size; larger sizes are better, but the price goes up gradually past 15".
+
+- Tim Holtz https://www.amazon.com/Tim-Holtz-Small-Titanium-Scissors/dp/B0013JNERS[7 inch] and https://www.amazon.com/Tim-Holtz-Scissors-All-Purpose/dp/B00JG9OV5G[9.5 inch] scissors. The 7 inch is for shaving off miscuts of vinyl, while the 9.5 inch is suitable for cutting off vinyl strips into smaller pieces (don't do this if a paper guillotine can do it more effectively).
+
+- Multiple https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas] to practice the following: air chamber seperation, seam reinforcement.
+** To practice reinforcing negative seams, get multiple https://www.amazon.com/Intex-Unicorn-Inflatable-Ride-Float/dp/B073685W74[Intex Unicorn Ride Ons].
+
+. Cut your roll of vinyl using a rotary cutter by running it alongside an external ruler on a self-healing cutting mat (use the OLFA or Dahle brand) to hold the rotary cutter's blade in place while pressed up against that ruler, and to take advantage of the additional ruler on the self-healing cutting mat to make it easier to accurately straighten the external ruler; this is to get a straighter cut. Do this slowly and carefully to prevent veering off course. If you veer off course, use scissors to correct it.
 
 - Afterwards, use a Paper Guillotine to make precise cuts on the smaller sheets of vinyl you've made using that rotary cutter. The sizes of your vinyl strips are at your discretion, and will vary from inflatable to inflatable.
 
-. Put the HH-66 glue inside of a 10mL disposable syringe, then put on a 19 or 20 gauge syringe tip, which ever you prefer.
-- Too low of a gauge will leak out glue, while too high makes it impossible to get glue out.
+. Put the HH-66 glue inside of a 10mL disposable syringe, then put on a 19 or 20 gauge blunt syringe tip, which ever you prefer.
+- Too low of a gauge will leak out glue, while too high of a gauge makes it impossible to get glue out.
 - Do not have air inside of the syringe holding the vinyl glue, it will cause the glue to leak out.
 
 . Use a UV flashlight to see if the vinyl's surface is clean before applying glue to it. Ensure you're wearing polycarbonate safety goggles or glasses while using a UV flashlight.
 - Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
 - The https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 goggles] (fits over glasses) or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses] are suitable for protection.
-
-. Heat acts as removal for vinyl glue, and so does direct sunlight. Keep it in mind.
 
 . To ensure the glue does its job:
 - Apply the glue evenly and thinly.
@@ -101,27 +116,19 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 - Do not apply too much glue in a given area.
 
 === Tips and tricks
+. Heat acts as removal for vinyl glue, and so does direct sunlight. Keep it in mind.
+
 . It's possible to glue pinhole leaks while soap + water is still on it and the inflatable is fully inflated. A https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[video example] of this.
 
 
 == [TODO] Vinyl glue removal
-. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or Acetone.
-. Hair dryers also help in removing vinyl glue residue.
+. https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or Acetone. Do not put these on cotton swabs, use blunt-tip syringes instead.
+. Hair dryers also help in removing vinyl glue residue, but have to be used in conjunction with Acetone.
 
 == For inflating
 * Double action hand pump: get one from https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued) if you can find it brand new.
 * For an automatic, MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] is the best. To keep its noise and heat down, get a motor speed controller https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[such as this]. For non-american outlets, get a https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
 - Ensure buying the https://metrovac.com/products/inflator-adapter[MVC-211C-AS] inflator adapter alongside your MetroVac of choice.
-
-== [TODO] Painting vinyl
-. The https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] is highly compact in size and suitable for paint touch-ups.
-. Now for the paint itself, its base is not cyclohexanone so don't expect miracles, 
-
-== [TODO] Replacing vinyl plugs/valves 
-.Large valves recommended for all but small air chambers such as the ears:
-. From FL Outdoor Fitness Store, https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2]; expected price: $3.62 USD for 5 valves.
-. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks]; overpriced but ships fast.
-
 
 == Buying DINP plasticizer
 
@@ -152,6 +159,17 @@ Look for expanded bubbles; this may take up to hours to appear, unless you apply
 
 === Good sellers
 . https://inflationresource.org/product/dinp/[Inflationresource]
+
+
+== [TODO] Painting vinyl
+. The https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] is highly compact in size and suitable for paint touch-ups.
+. Now for the paint itself, its base is not cyclohexanone so don't expect miracles, 
+
+== [TODO] Replacing vinyl plugs/valves 
+.Large valves recommended for all but small air chambers such as the ears:
+. From FL Outdoor Fitness Store, https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2]; expected price: $3.62 USD for 5 valves.
+. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks]; overpriced but ships fast.
+
 
 == Enlarging an inflatable
 CAUTION: This permanently results in weakened seams and deformation.
