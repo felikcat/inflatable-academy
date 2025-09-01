@@ -9,8 +9,6 @@ ifdef::env-github[]
 endif::[]
 :imagesdir: Images/
 
-9A9ZBZ0Y8Q44GI6A3S75BA8DIMZOI0
-
 == Visual tutorials & education
 .In order from most to least recommended:
 . https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
