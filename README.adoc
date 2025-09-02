@@ -84,8 +84,7 @@ To find leaks effectively:
 . If working indoors:
 ** Ensure rapid air exhaustion using a high-velocity fan or similar.
 ** Avoid working near electronics, as sparks with fumes can cause flash fires.
-
-. Wear a gas mask or painter respirator, such as the https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series]. Cheaper options like 3M exist but may require frequent replacement.
+** Wear a gas mask or painter respirator, such as the https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series]. Cheaper options like 3M exist but may require frequent replacement.
 
 . Handle vinyl glue with nitrile gloves, as it is toxic before drying. Avoid latex gloves, which deteriorate on contact.
 
@@ -94,11 +93,14 @@ To find leaks effectively:
 === Seam Types and Information
 . *Pinch seams*: Common and cost-effective; formed by pinching and welding vinyl. Recognizable by a raised lip.
 ** Prone to splitting under stress; reinforce by gluing a vinyl strip over the seam to bond both sides.
+** image:pinch_seam.png[]
 
 . *Negative curves*: Curved pinch seams (e.g., head to nose). Identified by higher tension.
 ** Reinforce similarly to pinch seams.
+** image:negative_curve.jpg[]
 
-. *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally do not require repair.
+. *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair.
+** image:flat_seams.jpg[]
 
 === Application Guidance
 . Purchase glue:
@@ -136,23 +138,25 @@ To find leaks effectively:
 . Combine with hair dryer for residue removal.
 
 == Inflation Tools
-* Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport] (discontinued; seek new stock).
-* Automatic options: MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] (best overall). Reduce noise/heat with https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller]. For non-U.S. outlets: https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
-** Include https://metrovac.com/products/inflator-adapter[MVC-211C-AS] adapter.
+* Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport].
+* Automatic options: MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] at 4.0HP (best overall). For non-U.S. outlets: https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
+** Reduce its noise and heat with a https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller]. 
+** Also include a https://metrovac.com/products/inflator-adapter[MVC-211C-AS] adapter with your purchase.
 
 == Purchasing DINP Plasticizer
 
 === Benefits of DINP Over ATBC
 - Greater elasticity, no paint damage, reduced leaching from skin oils/sunlight. May prevent paint cracking by enhancing flexibility.
 
-- ATBC is safer health-wise but harmful to inflatables; no assistance provided for it.
+- ATBC is safer health-wise but harmful to inflatables; I will offer no assistance for it.
 
 - DINP's risks are lower than other phthalates (e.g., DEP, DEHP), especially non-aerosol forms.
 
-=== Key Studies on DINP Health Effects (Read in Order)
-. https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/
-. https://pmc.ncbi.nlm.nih.gov/articles/PMC8677456/
-. https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf
+=== Key Studies on DINP Health Effects (read in order)
+. https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/[Critical Review on the Presence of Phthalates in Food and Evidence of Their Biological Impact]
+. https://pmc.ncbi.nlm.nih.gov/articles/PMC8677456/[The Impact of Di-Isononyl Phthalate Exposure on Specialized Epithelial Cells in the Colon]
+. https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf[Consumer and Indoor Exposure Assessment for Diisononyl Phthalate (DINP) +
+Technical Support Document for the Risk Evaluation]
 
 === Safety Warnings
 . Higher exposure from mouthing DINP-treated vinyl (per EPA).
@@ -171,12 +175,11 @@ To find leaks effectively:
 . https://inflationresource.org/product/dinp/[Inflationresource]
 
 == [TODO] Painting Vinyl
-. Use https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] for compact touch-ups.
-. Paint base is not cyclohexanone; results may vary.
+. Use a https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] for compact touch-ups.
+. If the paint base is not cyclohexanone then the results may vary.
 
 == [TODO] Replacing Vinyl Plugs/Valves
 .Large valves (for all but small chambers like ears):
-. From FL Outdoor Fitness Store: https://www.aliexpress.us/item/3256807644345558.html[Link 1], https://www.aliexpress.us/item/3256807969711719.html[Link 2] (~$3.62 USD for 5).
 . From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] (overpriced but fast shipping).
 
 == Enlarging an Inflatable
@@ -188,3 +191,8 @@ CAUTION: This weakens seams and causes permanent deformation.
 . Using a steam cleaner to inject steam.
 
 . Over-inflating for 3 days (accelerated by high humidity/temperature).
+
+== Appendices
+. Contains some of the images used to demonstrate seam types: https://meh.com/forum/topics/inflatable-of-the-day-45
+
+. Some images were used from their catalog: https://www.inflatableworld-wsp.de/
