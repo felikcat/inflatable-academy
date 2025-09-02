@@ -10,10 +10,6 @@ endif::[]
 :imagesdir: Images/
 :toc:
 
-= Guide to Inflatable Care and Maintenance
-
-This guide provides detailed information on maintaining, repairing, and handling inflatable items, such as toys. It covers visual tutorials, storage practices, cleaning methods, leak detection, glue application, and more.
-
 == Visual Tutorials and Education
 
 The following resources are recommended in order from most to least preferred:
