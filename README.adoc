@@ -93,14 +93,14 @@ To find leaks effectively:
 === Seam Types and Information
 . *Pinch seams*: Common and cost-effective; formed by pinching and welding vinyl. Recognizable by a raised lip.
 ** Prone to splitting under stress; reinforce by gluing a vinyl strip over the seam to bond both sides.
-** image:pinch_seam.png[]
+** image:pinch_seam.png[480,240]
 
 . *Negative curves*: Curved pinch seams (e.g., head to nose). Identified by higher tension.
 ** Reinforce similarly to pinch seams.
-** image:negative_curve.jpg[]
+** image:negative_curve.jpg[480,240]
 
 . *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair.
-** image:flat_seams.jpg[]
+** image:flat_seams.jpg[480,240]
 
 === Application Guidance
 . Purchase glue:
