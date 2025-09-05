@@ -21,14 +21,11 @@ The following resources are recommended in order from most to least preferred:
 
 == Storage Guidelines
 
-Proper storage helps prevent damage to paint, seams, and materials. Follow these steps:
-
-. To store an inflatable safely without damaging paint or seams:
+. To store an inflatable safely without damaging paint or seams (this method is not space-efficient but is the safest, as it minimizes bent corners):
 ** Remove all air from the chambers but leave the valves open.
 ** Lay out all seams flat.
 ** Roll the inflatable either clockwise or counterclockwise.
 ** Close the valves quickly after rolling to expel any remaining air.
-** This method is not space-efficient but is the safest, as it minimizes bent corners.
 
 . Use undyed and unwaxed cotton bags (also known as canvas bags) for storing vinyl or latex inflatables. These bags should be similar in color to the following example: +
 image:LEAFICO_cotton_bags.jpg[480,240]
@@ -92,15 +89,15 @@ To find leaks effectively:
 
 === Seam Types and Information
 . *Pinch seams*: Common and cost-effective; formed by pinching and welding vinyl. Recognizable by a raised lip.
-** Prone to splitting under stress; reinforce by gluing a vinyl strip over the seam to bond both sides.
-** image:pinch_seam.png[480,240]
+** Prone to splitting under stress; reinforce by gluing a vinyl strip over the seam to bond both sides. +
+image:pinch_seam.png[480,240]
 
 . *Negative curves*: Curved pinch seams (e.g., head to nose). Identified by higher tension.
-** Reinforce similarly to pinch seams.
-** image:negative_curve.jpg[480,240]
+** Reinforce similarly to pinch seams. +
+image:negative_curve.jpg[480,240]
 
-. *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair.
-** image:flat_seams.jpg[480,240]
+. *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair. +
+image:flat_seams.jpg[480,240]
 
 === The Procedure
 . Purchase glue:
