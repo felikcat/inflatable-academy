@@ -141,12 +141,12 @@ To find leaks effectively:
 . Heat (e.g., from sunlight) aids glue removal.
 
 . Cut the corners of your vinyl strips to be rounded. Neglecting this will lead to patches that pry up overtime from skin oil exposure.
-** Wrong vinyl strip shape example: +
+** Wrong vinyl strip shape: +
 image:wrong_vinyl_strip.png[]
-** Correct vinyl strip shape example: +
+** Correct vinyl strip shape: +
 image:correct_vinyl_strip.png[]
 
-. Glue pinhole leaks while inflated. It can be still soapy from the spray you used to detect pinhole leaks. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[A video example].
+. Glue pinhole leaks while inflated. It can be still soapy from the spray you used to detect pinhole leaks, the glue will continue to stick. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[A video example].
 
 . Leaks can be deeper inside vinyl instead of at the edges, meaning gluing the edges wouldn't fully solve the issue. Press and feel around the leak, try to make bubbles come out from the pressure of your finger(s).
 ** If it's multi-layered vinyl, you may have to create a 19 gauge needle sized hole and inject glue in if the leak is deep.
@@ -172,7 +172,7 @@ image:correct_vinyl_strip.png[]
 Technical Support Document for the Risk Evaluation]
 
 === Safety or Other Warnings
-. There is higher exposure from mouthing DINP-treated vinyl (per EPA) than touching it. Touching it is safe once DINP is absorbed.
+. There is higher exposure from mouthing DINP-treated vinyl (per EPA) than touching it. Touching it is safe once DINP is absorbed into the inflatable.
 ** In the European Union they've restricted usage of DINP in toys that can be taken into the mouth.
 
 . Use latex gloves during application.
@@ -183,7 +183,7 @@ Technical Support Document for the Risk Evaluation]
 
 . Alibaba sellers overcharge for DINP (~$100/kg + $80+ shipping).
 
-. Some suppliers (e.g., Sigma-Aldrich) restrict to approved buyers only.
+. Some suppliers (e.g., Sigma-Aldrich) restrict to approved buyers only. Meaning you'd need to be a chemist working for a company, and to order the ATBC/DINP/DINCH through said company.
 
 . Beware of diluted products (e.g., with sunflower oil, harmful to inflatables).
 
