@@ -86,7 +86,7 @@ To find leaks effectively:
 ** Avoid working near electronics, as sparks with fumes can cause flash fires.
 ** Wear a gas mask or painter respirator, such as the https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series]. Cheaper options like 3M exist but may require frequent replacement.
 
-. Handle vinyl glue with nitrile gloves, as it is toxic before drying. Avoid latex gloves, which deteriorate on contact.
+. Handle vinyl glue with latex gloves, as it is toxic before drying. Avoid nitrile gloves as it can stick to the glue.
 
 . Use vinyl no thicker than 0.4mm (16 gauge/16 mil) for patches or reinforcements. Thicker vinyl (0.6mm+) is difficult to cut, adheres poorly, and stresses surrounding material. For 0.3mm (12 gauge/12 mil) inflatables (e.g., from Inflatable World), match the thickness.
 
@@ -102,7 +102,7 @@ To find leaks effectively:
 . *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair.
 ** image:flat_seams.jpg[480,240]
 
-=== Application Guidance
+=== The Procedure
 . Purchase glue:
 ** https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] (gold standard, though availability varies by country).
 ** https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] (higher price, easier application but lower quality).
@@ -114,28 +114,42 @@ To find leaks effectively:
 ** Scissors: Tim Holtz https://www.amazon.com/Tim-Holtz-Small-Titanium-Scissors/dp/B0013JNERS[7 inch] for trimming miscuts and https://www.amazon.com/Tim-Holtz-Scissors-All-Purpose/dp/B00JG9OV5G[9.5 inch] for cutting strips (use guillotine when possible).
 ** Practice items: Multiple https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas] for chamber separation and seam reinforcement; https://www.amazon.com/Intex-Unicorn-Inflatable-Ride-Float/dp/B073685W74[Intex Unicorn Ride-Ons] for negative seams.
 
-. Cut vinyl:
+. Cutting vinyl:
 ** Use rotary cutter along a ruler on a self-healing mat (OLFA or Dahle brand) for straight cuts.
 ** Correct veering with scissors.
-** Use guillotine for precise cuts on smaller sheets; sizes vary by inflatable.
+** Use a paper guillotine for precise cuts on smaller sheets; sizes vary by inflatable.
 
-. Dispense glue: Fill a 10mL syringe with HH-66, attach a 19- or 20-gauge blunt tip (lower gauge leaks; higher is too restrictive). Avoid air in syringe.
+. Dispensing glue: Fill a 10mL syringe with HH-66, I recommend starting with 4mL of glue for small repairs, and attach a 19-gauge blunt tip (lower gauges leak; higher is too restrictive). 
+- Avoid air in syringe.
+- If there's air in the syringe, tap hard repeatedly where the bubbles are to force those bubbles to move up the syringe, then push the syringe until glue comes out.
 
-. Clean surfaces: Use UV flashlight for inspection; wear polycarbonate goggles (e.g., https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1] or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean]). Reference: 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]".
+. Clean the surface of the inflatable for where you wish to glue with alcohol. Be sure to test in a non-visible part of the inflatable on whether this removes paint or not before proceeding.
+- Optionally, use a UV flashlight for inspection; wear polycarbonate goggles to protect your eyes from UV light (e.g., https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 Goggles] or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses]).
+** Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]" for tips on what to buy.
 
 . Apply glue:
-** Evenly and thinly.
+** Evenly and thinly, spread out under the vinyl strip. Do not directly put glue on the inflatable.
 ** Work in sections slowly.
 ** Avoid excess in one area.
+** At the edge of each strip to finish it off and close it up. You should use at least two layers of glue (wait for the previous coat of glue to dry before doing another) to ensure a proper seal.
+
+. For the vinyl strips:
+** Make them each 2cm wide, no smaller, no larger.
+** Apply pressure to each glued down vinyl strip for no less than 25 seconds. Ensure the pressure doesn't cause creases and keeps the vinyl strip flat.
 
 === Tips and Tricks
 . Heat (e.g., from sunlight) aids glue removal.
 
-. Glue pinhole leaks while inflated and soapy: See https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[video example].
+. Cut the corners of your vinyl strips to be rounded. Neglecting this will lead to patches that pry up overtime from skin oil exposure.
+** Wrong vinyl strip shape example: +
+image:wrong_vinyl_strip.png[]
+** Correct vinyl strip shape example: +
+image:correct_vinyl_strip.png[]
 
-== [TODO] Vinyl Glue Removal
-. Use https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or acetone via blunt-tip syringes (avoid cotton swabs).
-. Combine with hair dryer for residue removal.
+. Glue pinhole leaks while inflated. It can be still soapy from the spray you used to detect pinhole leaks. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[A video example].
+
+. Leaks can be deeper inside vinyl instead of at the edges, meaning gluing the edges wouldn't fully solve the issue. Press and feel around the leak, try to make bubbles come out from the pressure of your finger(s).
+** If it's multi-layered vinyl, you may have to create a 19 gauge needle sized hole and inject glue in if the leak is deep.
 
 == Inflation Tools
 * Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport].
@@ -143,14 +157,13 @@ To find leaks effectively:
 ** Reduce its noise and heat with a https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller]. 
 ** Also include a https://metrovac.com/products/inflator-adapter[MVC-211C-AS] adapter with your purchase.
 
-== Purchasing DINP Plasticizer
+== Plasticizer section
 
-=== Benefits of DINP Over ATBC
-- Greater elasticity, no paint damage, reduced leaching from skin oils/sunlight. May prevent paint cracking by enhancing flexibility.
+=== DINP or ATBC?
+- DINP has greater elasticity, does not damage paint, and reduces leaching from skin oils or sunlight. May prevent paint cracking by enhancing flexibility.
 
 - ATBC is safer health-wise but harmful to inflatables; I will offer no assistance for it.
-
-- DINP's risks are lower than other phthalates (e.g., DEP, DEHP), especially non-aerosol forms.
+** DINP's risks are lower than other phthalates (e.g., DEP, DEHP), especially non-aerosol forms. DINCH would be better, however I do not know how to source it.
 
 === Key Studies on DINP Health Effects (read in order)
 . https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/[Critical Review on the Presence of Phthalates in Food and Evidence of Their Biological Impact]
@@ -158,29 +171,24 @@ To find leaks effectively:
 . https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf[Consumer and Indoor Exposure Assessment for Diisononyl Phthalate (DINP) +
 Technical Support Document for the Risk Evaluation]
 
-=== Safety Warnings
-. Higher exposure from mouthing DINP-treated vinyl (per EPA).
+=== Safety or Other Warnings
+. There is higher exposure from mouthing DINP-treated vinyl (per EPA) than touching it. Touching it is safe once DINP is absorbed.
+** In the European Union they've restricted usage of DINP in toys that can be taken into the mouth.
 
-. Use nitrile gloves during application; wash skin contact immediately (5% absorption rate).
+. Use latex gloves during application.
 
-. Apply internally via valve for safety, but this weakens seams.
+. Wash if there's skin contact with HH-66 glue or DINP immediately.
 
-. Alibaba sellers overcharge (~$100/kg + $80+ shipping).
+. Apply DINP internally via the inflatable's valve(s) for safety; this will weaken seams compared to applying them externally with gloves on.
 
-. Some suppliers (e.g., Sigma-Aldrich) restrict to approved buyers.
+. Alibaba sellers overcharge for DINP (~$100/kg + $80+ shipping).
 
-. Beware diluted products (e.g., with sunflower oil, harmful to inflatables).
+. Some suppliers (e.g., Sigma-Aldrich) restrict to approved buyers only.
+
+. Beware of diluted products (e.g., with sunflower oil, harmful to inflatables).
 
 === Recommended Sellers
 . https://inflationresource.org/product/dinp/[Inflationresource]
-
-== [TODO] Painting Vinyl
-. Use a https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] for compact touch-ups.
-. If the paint base is not cyclohexanone then the results may vary.
-
-== [TODO] Replacing Vinyl Plugs/Valves
-.Large valves (for all but small chambers like ears):
-. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] (overpriced but fast shipping).
 
 == Enlarging an Inflatable
 CAUTION: This weakens seams and causes permanent deformation.
@@ -192,7 +200,23 @@ CAUTION: This weakens seams and causes permanent deformation.
 
 . Over-inflating for 3 days (accelerated by high humidity/temperature).
 
-== Appendices
-. Contains some of the images used to demonstrate seam types: https://meh.com/forum/topics/inflatable-of-the-day-45
+== [TODO] Vinyl Glue Removal
+. Use https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or acetone via blunt-tip syringes (avoid cotton swabs).
+. Combine with hair dryer for residue removal.
 
-. Some images were used from their catalog: https://www.inflatableworld-wsp.de/
+== [TODO] Painting Vinyl
+. Use a https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] for compact touch-ups.
+. If the paint base is not cyclohexanone then the results may vary.
+
+== [TODO] Replacing Vinyl Plugs/Valves
+.Large valves (for all but small chambers like ears):
+. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] (overpriced but fast shipping).
+
+== Appendices
+. Some images were sourced from:
+** https://meh.com/forum/topics/inflatable-of-the-day-45
+
+** https://www.inflatableworld-wsp.de/
+
+** Candy Coated Squeaks' YouTube videos
+
