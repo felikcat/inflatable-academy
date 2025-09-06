@@ -144,9 +144,9 @@ image:flat_seams.jpg[480,240]
 
 . Cut the corners of your vinyl strips to be rounded. Neglecting this will lead to patches that pry up overtime from skin oil exposure.
 ** Wrong vinyl strip shape: +
-image:wrong_vinyl_strip.png[480,360]
+image:wrong_vinyl_strip.png[480,480]
 ** Correct vinyl strip shape: +
-image:correct_vinyl_strip.png[480,360]
+image:correct_vinyl_strip.png[480,480]
 
 . Glue pinhole leaks while inflated. It can be still soapy from the spray you used to detect pinhole leaks, the glue will continue to stick. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[A video example].
 
